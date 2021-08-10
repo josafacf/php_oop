@@ -1,0 +1,2 @@
+2018-1030 01:26:31 :: Inserido produto novo
+2018-1030 01:26:31 :: SELECT * FROM produto WHERE id=8

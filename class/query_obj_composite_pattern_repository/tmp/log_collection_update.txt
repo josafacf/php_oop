@@ -1,0 +1,6 @@
+2018-1030 04:26:48 :: SELECT * FROM produto WHERE (preco_venda <= 35 AND origem = 'N')
+2018-1030 04:26:48 :: SELECT * FROM produto WHERE id=3
+2018-1030 04:26:48 :: UPDATE produto SET descricao = 'SD CARD  512MB', estoque = '4', preco_custo = '20', preco_venda = 45.5, codigo_barras = '3', data_cadastro = '0000-00-00', origem = 'N' WHERE id=3
+2018-1030 04:26:48 :: SELECT * FROM produto WHERE id=22
+2018-1030 04:26:48 :: UPDATE produto SET descricao = 'MOUSE PS2 A7 AZUL/PLATA', estoque = '20', preco_custo = '5', preco_venda = 19.5, codigo_barras = '10', data_cadastro = '0000-00-00', origem = 'N' WHERE id=22
+2018-1030 04:26:48 :: SELECT count(*) FROM produto WHERE (preco_venda <= 35 AND origem = 'N')

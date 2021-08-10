@@ -1,0 +1,2 @@
+2018-1030 01:49:30 :: Protegendo o acesso a um produto
+2018-1030 01:49:30 :: SELECT * FROM produto WHERE id=22

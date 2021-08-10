@@ -1,0 +1,2 @@
+2018-1030 04:33:37 :: DELETE FROM produto WHERE (descricao like '%WEB%' OR descricao like '%FILMAD%')
+2018-1030 04:33:37 :: SELECT count(*) FROM produto WHERE (descricao like '%WEB%' OR descricao like '%FILMAD%')
